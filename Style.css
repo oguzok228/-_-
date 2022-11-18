@@ -1,0 +1,19 @@
+body{
+    margin: 20px;
+}
+p{
+    font-size: 20px;
+}
+.A{
+    color: gray;
+}
+.B{
+    color: darkblue;
+}
+.C{
+    color: darkgreen;
+}
+.D{
+    color: darkred;
+}
+
